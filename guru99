@@ -1,0 +1,1262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guru99:Free Online Tutorials and Business Software Reviews</title>
+    <link rel="stylesheet" href="css/task.css">
+    <link rel="icon"
+        href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhZjjH5mXvu0sl40FuWPeYyaCVJ3GujGHWew&s">
+    <!-- Latest compiled and minified CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body>
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-3">
+                    <table class="table table-bordered ">
+                        <tr>
+                            <th class="bg-primary text-white text-center">
+                                TESTING
+                            </th>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/software-testing.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Software Testing
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/quick-test-professional-qtp-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ QTP (Quick Test Professional)
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/selenium-tutorial.html"
+                                    class="text-dark text-decoration-none">➤Selenium</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/mobile-testing.html"
+                                    class="text-dark text-decoration-none">➤Mobile App Testing</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/cucumber-tutorials.html"
+                                    class="text-dark text-decoration-none"> ➤Cucumber Testing</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/soapui-tutorial.html"
+                                    class="text-dark text-decoration-none"> ➤Soap UI</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/agile-testing-course.html"
+                                    class="text-dark text-decoration-none"> ➤Agile Testing</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/junit-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤Junit</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/robotic-process-automation-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ RPA
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+                    <table class="table table-bordered ">
+                        <tr>
+                            <th class="bg-primary text-white text-center">
+                                LIVE PROJECTS
+                            </th>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/live-testing-project.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Live Testing Project
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/live-selenium-project.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Live Selenium Project
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/live-ecommerce-project.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Live Ecommerce Project
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/live-uft-testing.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Live UFT Testing
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/live-interactive-exercise-hp-alm.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Live HP ALM Exercise
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/live-mobile-testing-project.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤Live Mobile Testing
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/live-penetration-testing-project.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Live Security Testing
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/live-php-project-learn-complete-web-development-cycle.html"
+                                    class="text-dark text-decoration-none">
+                                    Live PHP Project
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/live-mobile-testing-project.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Live Mobile Testing
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/live-agile-testing-project.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤Live Scrum(Agile) Testing
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/live-insurance-testing-project.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Live Insurance Testing
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/live-payment-gateway-project.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Live Payment Gateway
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/live-telecom-project.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Live Telecom
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/live-python-project.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Live Python Project
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+                    <table class="table table-bordered ">
+                        <tr class="table">
+                            <th class="bg-primary text-white text-center">
+                                ➤ DEFECT TOOLS
+                            </th>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/bugzilla-tutorial-for-beginners.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Bugzilla
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/jira-tutorial-a-complete-guide-for-beginners.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ JIRA
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/mantis-bug-tracker-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ MANTIS Bug Tracker
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+                    <table class="table table-bordered ">
+                        <tr class="table">
+                            <th class="bg-primary text-white text-center">
+                                ENTERPRISE TESTING
+                            </th>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/utlimate-guide-etl-datawarehouse-testing.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ETL Testing
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/learn-sap-testing-create-your-first-sap-test-case.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ SAP Testing
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/data-testing.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Database(Data) Testing
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+                    <table class="table table-bordered ">
+                        <tr class="table">
+                            <th class="bg-primary text-white text-center">
+                                PERFORMANCE TESTING
+                            </th>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/jmeter-tutorials.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤JMeter
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/loadrunner-v12-tutorials.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ JIRA
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="col-sm-3">
+                    <table class="table table-bordered ">
+                        <tr class="table">
+                            <th class="bg-primary text-white text-center">
+                                SAP
+                            </th>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/what-is-sap.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤SAP Beginner
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/abap-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ SAP ABAP
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-hcm.html" class="text-dark text-decoration-none">
+                                    ➤ SAP HR/HCM
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-fico-training-tutorials.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤SAP FICO
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-basis-training-tutorials.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ SAP Basis
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/free-sap-sd-training-course.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ SAP SD
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-crm-training.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ SAP CRM
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-mm-training-tutorials.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ SAP MM
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/co-tutorials.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ SAP CO
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-payroll.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ SAP Payroll
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-bi.html" class="text-dark text-decoration-none">
+                                    ➤ SAP BI/BW
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-pp-tutorials.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ SAP PP
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-quality-management-qm-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ SAP QM
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-hana-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    SAP HANA
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/crystal-reports-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Crystal Reports
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-pi-process-integration-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ SAP PI/PO
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sapui5-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ SAPUI5
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/overview-of-sap-security.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ SAP Security
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-bpc.html" class="text-dark text-decoration-none">
+                                    ➤ SAP BPC
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-bods-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ SAP BODS
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+                    <table class="table table-bordered ">
+                        <tr class="table">
+                            <th class="bg-primary text-white text-center">
+                                BIG DATA
+                            </th>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/bigdata-tutorials.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ BIG DATA
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/hbase-tutorials.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ HBase
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/mongodb-tutorials.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ MongoDB
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/hive-tutorials.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ HIVE
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/cassandra-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Cassandra
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/aws-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ AWS
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/data-warehousing-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Data Ware House
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/devops-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ DevOps
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/tableau-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Tableau
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/microstrategy-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Micro Strategy
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/obiee-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ OBIEE
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/pentaho-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Pentaho
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/power-bi-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Power BI
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/qlikview-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Qlikview
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/talend-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Talend
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/zookeeper-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Zookeeper
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/apache-nifi-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ NiFi
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+                    <table class="table table-bordered ">
+                        <tr class="table">
+                            <th class="bg-primary text-white text-center">
+                                PERFORMANCE TESTING
+                            </th>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/jmeter-tutorials.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ JMeter
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/loadrunner-v12-tutorials.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ JIRA
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="col-sm-3">
+                    <table class="table table-bordered ">
+                        <tr class="table">
+                            <th class="bg-primary text-white text-center">
+                                AI
+                            </th>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/tensorflow-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ TensorFlow
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/r-tutorial.html" class="text-dark text-decoration-none">
+                                    ➤ RProgramming
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/nltk-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ NLTK
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/artificial-intelligence-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Artificial Intelligence
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/data-science-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Data Science
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/keras-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Keras
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/numpy-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ NumPy
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/pytorch-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ PyTorch
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+                    <table class="table table-bordered ">
+                        <tr class="table">
+                            <th class="bg-primary text-white text-center">
+                                WEB
+                            </th>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/what-is-sap.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤Java
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/vbscript-tutorials-for-beginners.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤VBScript
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/python-tutorials.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Python
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/perl-tutorials.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤Perl
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/linux-tutorials.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Linux
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/javascript-tutorials.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ JavaScript
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/apache.html" class="text-dark text-decoration-none">
+                                    ➤ Apache
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/php.html" class="text-dark text-decoration-none">
+                                    ➤ PHP
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/angularjs.html" class="text-dark text-decoration-none">
+                                    ➤ Angular JS
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/node-js-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Node.js
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/jsp-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤JSP
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/web-services-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤Web services
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/c-sharp-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤C#
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/asp-net-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ASP.Net
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/android-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Android
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/cpp-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ C++
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/codeigniter-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Codelignter
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/reactjs-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ React Js
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/ruby-on-rails-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Ruby & Rails
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/uml-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ UMl
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/wpf-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ WPF
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/try-java-editor.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Execute Java Online
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/execute-javascript-online.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Execute Javascript
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/execute-html-online.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Execute HTML
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/execute-python-online.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Execute Python
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+                    <table class="table table-bordered ">
+                        <tr class="table">
+                            <th class="bg-primary text-white text-center">
+                                TEST MANAGEMENT
+                            </th>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/hp-alm-free-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ HP Quality Center/ALM
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/test-management.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Test Management
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/testlink-tutorial-complete-guide.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤TestLink
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/top-20-test-management-tools.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤Test Management Tools
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="col-sm-3">
+                    <table class="table table-bordered ">
+                        <tr class="table">
+                            <th class="bg-primary text-white text-center">
+                                MUST LEARN!
+                            </th>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/what-is-sap.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤Web Development
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/abap-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Online Courses
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-hcm.html" class="text-dark text-decoration-none">
+                                    ➤ Reviews
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-fico-training-tutorials.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤Excel Tutorials
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-basis-training-tutorials.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Accounting
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/free-sap-sd-training-course.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤Ethical Hacking
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-crm-training.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Cloud Computing
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-mm-training-tutorials.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Photoshop CC
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/co-tutorials.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Business Analyst
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-payroll.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Informatica
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-bi.html" class="text-dark text-decoration-none">
+                                    ➤ Project Management
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-pp-tutorials.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ VBA
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-quality-management-qm-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ CCNA
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-hana-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    Jenkins
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/crystal-reports-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Software Engineering
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-pi-process-integration-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Blockchain
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sapui5-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Cloud Mining Sites
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/overview-of-sap-security.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Go Programming
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-bpc.html" class="text-dark text-decoration-none">
+                                    ➤ Networking
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-bods-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Operating System
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-bi.html" class="text-dark text-decoration-none">
+                                    ➤Compiler Design
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-pp-tutorials.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ COBOL
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-quality-management-qm-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Embedded Systems
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-hana-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    Algorithms
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/crystal-reports-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Salesforce
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-pi-process-integration-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Website Monitoring Tools
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sapui5-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Best IPTV services
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/overview-of-sap-security.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Best VPNs
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-bpc.html" class="text-dark text-decoration-none">
+                                    ➤ VPN for iPhone
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sap-bods-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ Crypto Saving Accounts
+                            </td>
+                        </tr>
+                    </table>
+                    <table class="table table-bordered ">
+                        <tr class="table">
+                            <th class="bg-primary text-white text-center">
+                                DATABASE
+                            </th>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sql.html" class="text-dark text-decoration-none">
+                                    ➤ SQL
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sqlite-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ SQLITE
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/postgresql-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ PostgreeSQL
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/mariadb-tutorial-install.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ PL/SQL
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/dbms-tutorial-install.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ DBMS
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/mariadb-tutorial-install.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤ MariaDB
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/ms-sql-server-tutorial.html"
+                                    class="text-dark text-decoration-none">
+                                    ➤SQL Server
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.guru99.com/sql-tools.html" class="text-dark text-decoration-none">
+                                    ➤ SQL Tools
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
+
+/* css code*/
+td
+{
+    font-size: 18px;
+}
+tr td:hover
+{
+    background-color: yellow;
+}
