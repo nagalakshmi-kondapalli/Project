@@ -14,11 +14,168 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </head>
 <body>
+    <div class="header">
+        <nav class="navbar navbar-expand-lg navbar-toggler  static-top">
+            <div class="container">
+                <a class="navbar-brand" href="#">
+                    <img src="https://www.guru99.com/images/guru99-logo-v1.png" alt="..." height="36">
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse links_one" id="navbarSupportedContent">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            <a class="nav-link " aria-current="page" href="#">Home</a>
+                        </li>
+                        
+                        <li class="nav-item dropdown db1">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                data-bs-toggle="dropdown" aria-expanded="false">
+                                Testing
+                            </a>
+                            <ul class="dropn " aria-labelledby="">
+                                <div class="row">
+                                    <div class="col-sm-4">
+                                        <ul>
+                                            <li><a href="#">Agile Testing</a></li>
+                                            <li><a href="#">Bugzilla</a></li>
+                                            <li><a href="#">Cucumber</a></li>
+                                            <li><a href="#">Database Testing</a></li>
+                                            <li><a href="#">ETL Testing</a></li>
+                                            <li><a href="#">JMeter</a></li>
+                                            <li><a href="#">JIRA</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <ul>
+                                            <li><a href="#">JUnit</a></li>
+                                            <li><a href="#">HP Loadrunner</a></li>
+                                            <li><a href="#">Software Testing</a></li>
+                                            <li><a href="#">Mobile Testing</a></li>
+                                            <li><a href="#">Mantis</a></li>
+                                            <li><a href="#">Postman</a></li>
+                                            <li><a href="#">QTP</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <ul>
+                                            <li><a href="#">Quality Center(ALM)</a></li>
+                                            <li><a href="#">RPA</a></li>
+                                            <li><a href="#">SAP Testing</a></li>
+                                            <li><a href="#">Selenium</a></li>
+                                            <li><a href="#">SoapUI</a></li>
+                                            <li><a href="#">TEST Management</a></li>
+                                            <li><a href="#">TestLink</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </ul>
+                        </li>
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                data-bs-toggle="dropdown" aria-expanded="false">
+                                SAP
+                            </a>
+                            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" href="#">Action</a></li>
+                                <li><a class="dropdown-item" href="#">Another action</a></li>
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
+                                <li><a class="dropdown-item" href="#">Something else here</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                data-bs-toggle="dropdown" aria-expanded="false">
+                                Web
+                            </a>
+                            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" href="#">Action</a></li>
+                                <li><a class="dropdown-item" href="#">Another action</a></li>
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
+                                <li><a class="dropdown-item" href="#">Something else here</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                data-bs-toggle="dropdown" aria-expanded="false">
+                                Must Learn
+                            </a>
+                            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" href="#">Action</a></li>
+                                <li><a class="dropdown-item" href="#">Another action</a></li>
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
+                                <li><a class="dropdown-item" href="#">Something else here</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                data-bs-toggle="dropdown" aria-expanded="false">
+                                Big Data
+                            </a>
+                            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" href="#">Action</a></li>
+                                <li><a class="dropdown-item" href="#">Another action</a></li>
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
+                                <li><a class="dropdown-item" href="#">Something else here</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                data-bs-toggle="dropdown" aria-expanded="false">
+                                Live Project
+                            </a>
+                            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" href="#">Action</a></li>
+                                <li><a class="dropdown-item" href="#">Another action</a></li>
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
+                                <li><a class="dropdown-item" href="#">Something else here</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                data-bs-toggle="dropdown" aria-expanded="false">
+                                AI
+                            </a>
+                            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" href="#">Action</a></li>
+                                <li><a class="dropdown-item" href="#">Another action</a></li>
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
+                                <li><a class="dropdown-item" href="#">Something else here</a></li>
+                            </ul>
+                        </li>
+                    </ul>                  
+                </div>
+            </div>
+        </nav>
+        <br><br>
+    </div>
     <section>
         <div class="container">
             <div class="row">
                 <div class="col-sm-3">
-                    <table class="table table-bordered ">
+                    <table class="table table-bordered" style="border-right:0px solid white;
+    border-left: 0px solid white;" >
                         <tr>
                             <th class="bg-primary text-white text-center">
                                 TESTING
@@ -86,7 +243,8 @@
                             </td>
                         </tr>
                     </table>
-                    <table class="table table-bordered ">
+                    <table class="table table-bordered " style="border-right:0px solid white;
+    border-left: 0px solid white;">
                         <tr>
                             <th class="bg-primary text-white text-center">
                                 LIVE PROJECTS
@@ -205,7 +363,8 @@
                             </td>
                         </tr>
                     </table>
-                    <table class="table table-bordered ">
+                    <table class="table table-bordered " style="border-right:0px solid white;
+    border-left: 0px solid white;">
                         <tr class="table">
                             <th class="bg-primary text-white text-center">
                                 ➤ DEFECT TOOLS
@@ -236,7 +395,8 @@
                             </td>
                         </tr>
                     </table>
-                    <table class="table table-bordered ">
+                    <table class="table table-bordered " style="border-right:0px solid white;
+    border-left: 0px solid white;">
                         <tr class="table">
                             <th class="bg-primary text-white text-center">
                                 ENTERPRISE TESTING
@@ -267,7 +427,8 @@
                             </td>
                         </tr>
                     </table>
-                    <table class="table table-bordered ">
+                    <table class="table table-bordered" style="border-right:0px solid white;
+                    border-left: 0px solid white;">
                         <tr class="table">
                             <th class="bg-primary text-white text-center">
                                 PERFORMANCE TESTING
@@ -292,7 +453,8 @@
                     </table>
                 </div>
                 <div class="col-sm-3">
-                    <table class="table table-bordered ">
+                    <table class="table table-bordered " style="border-right:0px solid white;
+    border-left: 0px solid white;">
                         <tr class="table">
                             <th class="bg-primary text-white text-center">
                                 SAP
@@ -456,7 +618,8 @@
                             </td>
                         </tr>
                     </table>
-                    <table class="table table-bordered ">
+                    <table class="table table-bordered " style="border-right:0px solid white;
+    border-left: 0px solid white;">
                         <tr class="table">
                             <th class="bg-primary text-white text-center">
                                 BIG DATA
@@ -599,7 +762,8 @@
                             </td>
                         </tr>
                     </table>
-                    <table class="table table-bordered ">
+                    <table class="table table-bordered " style="border-right:0px solid white;
+    border-left: 0px solid white;">
                         <tr class="table">
                             <th class="bg-primary text-white text-center">
                                 PERFORMANCE TESTING
@@ -624,7 +788,8 @@
                     </table>
                 </div>
                 <div class="col-sm-3">
-                    <table class="table table-bordered ">
+                    <table class="table table-bordered " style="border-right:0px solid white;
+    border-left: 0px solid white;">
                         <tr class="table">
                             <th class="bg-primary text-white text-center">
                                 AI
@@ -694,7 +859,8 @@
                             </td>
                         </tr>
                     </table>
-                    <table class="table table-bordered ">
+                    <table class="table table-bordered " style="border-right:0px solid white;
+    border-left: 0px solid white;">
                         <tr class="table">
                             <th class="bg-primary text-white text-center">
                                 WEB
@@ -896,7 +1062,8 @@
                             </td>
                         </tr>
                     </table>
-                    <table class="table table-bordered ">
+                    <table class="table table-bordered " style="border-right:0px solid white;
+    border-left: 0px solid white;">
                         <tr class="table">
                             <th class="bg-primary text-white text-center">
                                 TEST MANAGEMENT
@@ -937,7 +1104,8 @@
                     </table>
                 </div>
                 <div class="col-sm-3">
-                    <table class="table table-bordered ">
+                    <table class="table table-bordered " style="border-right:0px solid white;
+    border-left: 0px solid white;">
                         <tr class="table">
                             <th class="bg-primary text-white text-center">
                                 MUST LEARN!
@@ -1175,7 +1343,8 @@
                             </td>
                         </tr>
                     </table>
-                    <table class="table table-bordered ">
+                    <table class="table table-bordered " style="border-right:0px solid white;
+    border-left: 0px solid white;">
                         <tr class="table">
                             <th class="bg-primary text-white text-center">
                                 DATABASE
@@ -1250,8 +1419,7 @@
     </section>
 </body>
 </html>
-
-/* css code*/
+/* css code */
 td
 {
     font-size: 18px;
@@ -1259,4 +1427,49 @@ td
 tr td:hover
 {
     background-color: yellow;
+}
+tr th
+{
+    border-radius: 10px 10px 0px 0px;
+}
+.dropn ul li a{
+    /* margin-left: 100px; */
+    color:white;
+    text-decoration: none;
+    /* color: rgb(251, 249, 249); */
+    /* padding: px; */
+    font-size: 15px;
+    
+}
+.dropn{
+    width: 50%;
+}
+.dropn ul li{
+    padding: 8px;
+    margin: 15px;
+}
+.dropn ul li:hover{
+    background-color: white;
+    /* color: #053061;  */
+}
+.dropn ul li:hover a{
+    color: black;
+}
+.dropn ul{
+    padding: 0;
+    list-style: none;
+}
+.div3{
+    display: block;
+}
+.dropn{
+    display: none;
+    margin-left: -250px;
+    /* width: 500px; */
+    /* height: 100%; */
+    background-color: black;
+}
+.db1:hover .dropn{
+    display: block;
+    position: fixed;
 }
